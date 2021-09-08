@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yosukeIDE
+- 👋 Hi, I’m Yosuke Ide
 - 👀 I’m interested in General Purporse and Domain Specific Architectures, and loves computer architecture
 - 🌱 I’m currently creating a RISC-V based CPU
 - 📫 How to reach me : yosuke.ide@keio.jp

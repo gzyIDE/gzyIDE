@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yosuke Ide
-- 👀 I’m interested in General Purporse and Domain Specific Architectures, and loves computer architecture
+- 👀 I’m interested in general purporse prceossors and domain specific architectures, and loves computer architecture in general
 - 🌱 I’m currently creating a RISC-V based CPU
 - 📫 How to reach me : gizaneko@outlook.jp
 
